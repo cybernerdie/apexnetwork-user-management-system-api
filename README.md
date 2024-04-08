@@ -17,7 +17,7 @@ The project entails developing a User Management System API using Laravel. This 
 
 1. Clone the repository to your local machine:
 
-   `git clone [<repository_url>](https://github.com/cybernerdie/apexnetwork-user-management-system-api.git)`
+   `git clone https://github.com/cybernerdie/apexnetwork-user-management-system-api.git`
 
 2. Navigate to the project directory:
 
